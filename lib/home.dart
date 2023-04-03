@@ -4,7 +4,7 @@ import 'widget/numbers.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
 class Home extends StatefulWidget {
-  Home({Key? key}) : super(key: key);
+  const Home({Key? key}) : super(key: key);
 
   @override
   State<Home> createState() => _HomeState();

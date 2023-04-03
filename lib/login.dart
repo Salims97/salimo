@@ -4,7 +4,7 @@ import 'widget/buttons.dart';
 
 
 class LoginPage extends StatefulWidget {
-  LoginPage({Key? key}) : super(key: key);
+ const LoginPage({Key? key}) : super(key: key);
 
   @override
   _LoginPageState createState() => _LoginPageState();
